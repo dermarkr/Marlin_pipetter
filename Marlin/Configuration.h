@@ -1048,7 +1048,7 @@
 #define USE_XMAX_PLUG
 #define USE_YMAX_PLUG
 #define USE_ZMAX_PLUG
-#define USE_IMAX_PLUG
+// #define USE_IMAX_PLUG
 //#define USE_JMAX_PLUG
 //#define USE_KMAX_PLUG
 //#define USE_UMAX_PLUG
